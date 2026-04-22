@@ -19,6 +19,9 @@
 ## Port Numbers
 
 Eureka → 8761
+
 API Gateway → 8080
+
 Question → 8081
+
 Quiz → 8082
